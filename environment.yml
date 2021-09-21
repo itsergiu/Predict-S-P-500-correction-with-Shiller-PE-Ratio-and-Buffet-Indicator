@@ -1,0 +1,12 @@
+name: SP500-correction-PE
+channels:
+- conda-forge
+- defaults
+dependencies:
+- pandas
+- scikit-learn
+- numpy
+- xgboost
+- dateparser
+- pip:
+  - plotly-express
