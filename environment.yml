@@ -10,5 +10,6 @@ dependencies:
 - xgboost
 - dateparser
 - lxml
+- pip
 - pip:
   - plotly-express
