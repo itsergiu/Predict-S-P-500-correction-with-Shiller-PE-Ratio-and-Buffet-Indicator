@@ -1,6 +1,7 @@
 name: SP500-correction-PE
 channels:
 - conda-forge
+- anaconda
 - defaults
 dependencies:
 - pandas
@@ -8,5 +9,6 @@ dependencies:
 - numpy
 - xgboost
 - dateparser
+- lxml
 - pip:
   - plotly-express
