@@ -9,6 +9,7 @@ dependencies:
 - xgboost
 - dateparser
 - lxml
+- matplotlib
 - pip:
   - plotly-express
   - fredapi
