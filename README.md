@@ -1,4 +1,4 @@
-# Predict S&P 500 correction with Shiller PE Ratio
+# Predict S&P 500 correction with Shiller P/E Ratio and Buffet Indicator
 
 Online playground execution with mybinder:
 
