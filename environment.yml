@@ -8,6 +8,7 @@ dependencies:
 - numpy
 - xgboost
 - dateparser
+- lxml
 - pip:
   - plotly-express
   - fredapi
