@@ -6,3 +6,5 @@ Online playground execution with mybinder.
 
  
 https://bit.ly/3ZtvNwl - S&P correction in the next 6M d20230113
+
+http://bit.ly/3XdrP9u - S&P 500 index correction prediction with Machine Learning | Medium
